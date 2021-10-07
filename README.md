@@ -10,6 +10,7 @@ I am always aspiring to learn new things, and I like to share what I learn. This
 * [Item, Icon, and Slot](https://github.com/meldavy/ipf-documentation/wiki/Item,-Icon,-and-Slot)
 * [Async](https://github.com/meldavy/ipf-documentation/wiki/Async-Logic)
 * [UI Framework](https://github.com/meldavy/ipf-documentation/wiki/UI-Framework)
+* [UI Resizing and Repositioning](https://github.com/meldavy/ipf-documentation/wiki/UI-Resizing-Repositioning)
 * [Cookbook (random good-to-know)](https://github.com/meldavy/ipf-documentation/wiki/Cookbook)
 
 # References
