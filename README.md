@@ -24,3 +24,4 @@ I am always aspiring to learn new things, and I like to share what I learn. This
 * [Drawing a Gauge (HelloWorld pt.2)](https://github.com/meldavy/ipf-documentation/wiki/Learning-How-To-Draw-a-Gauge)
 * [Learning about Frame Visibility](https://github.com/meldavy/ipf-documentation/wiki/Understanding-Frame-Visibility)
 * [Things I still want to learn](https://github.com/meldavy/ipf-documentation/wiki/Things-to-still-learn)
+* [Dumb ACUtil Bug!!! Must read!!!](https://github.com/meldavy/ipf-documentation/wiki/ACUtil-bug!!!)
